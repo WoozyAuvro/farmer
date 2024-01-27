@@ -1,0 +1,28 @@
+features:
+1. moisture + auto pumping
+2. face recog for security 
+3. android app (optional)
+4. weather check + light to open or close the hood 
+5. vaccum and dispensing system for distributing food 
+6. smart solar power
+7. overall monitoring (webpage)
+8. AI data analysis
+
+components needed:
+1. esp32 x 3 (or 2 esp 1 arduino uno)
+2. mini water pump
+3. webcam + laptop
+4. servo motor x 2  
+5. ldr sensor x 3
+6. dc motor + fan
+7. solar panel
+8. power supply
+9. jumper wires + breadboard
+10. additional components (yet to know)
+11. decoration 
+12. temperature + humidity sensor 
+
+---------
+12. posters
+13. script for the judges
+---------
